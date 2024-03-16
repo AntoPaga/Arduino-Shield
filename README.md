@@ -1,0 +1,1 @@
+Arduino Shield is an expansion board that can be plugged into an Arduino board to extend its capabilities or provide additional functionality. This shield typically stacks on top of the Arduino board, allowing for easy integration and rapid prototyping of electronic circuits and projects.
