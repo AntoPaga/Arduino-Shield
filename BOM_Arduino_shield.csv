@@ -1,0 +1,16 @@
+"Id";"Riferimento";"Contenitore";"Quantità";"Valore";"Produttore";
+1;"10k1";"Potentiometer_ACP_CA9-V10_Vertical";1;"R_POT_TRIM";;;
+2;"A1";"Arduino_UNO_R3";1;"Arduino_UNO_R3";;;
+3;"BZ1";"Buzzer_12x9.5RM7.6";1;"Buzzer";;;
+4;"D1,D2,D3";"LED_D5.0mm";3;"LED";;;
+5;"D4";"LED_D5.0mm-4_RGB";1;"LED_RGBC";;;
+6;"J1";"PinSocket_1x04_P2.54mm_Vertical";1;"Conn_01x04";;;
+7;"J2";"PinSocket_1x04_P2.00mm_Vertical";1;"Conn_01x04";;;
+8;"R1,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";2;"10k";;;
+9;"R2";"R_LDR_4.9x4.2mm_P2.54mm_Vertical";1;"R_PHOTO";;;
+10;"R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"2k2";;;
+11;"R5";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"100";;;
+12;"R6,R7,R8,R9,R10,R11";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";6;"390";;;
+13;"SW1,SW2,SW5";"SW_PUSH_6mm";3;"SW_SPST";;;
+14;"SW3,SW4";"SW_DIP_SPSTx04_Slide_6.7x11.72mm_W7.62mm_P2.54mm_LowProfile";2;"SW_DIP_x04";;;
+15;"SW6";"SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile";1;"SW_DIP_x02";;;
